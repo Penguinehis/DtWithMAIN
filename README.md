@@ -1,4 +1,4 @@
-# DtCracked With MAIN
+# Dt Free With MAIN
 ```sh
 {
     rm -f /usr/bin/dtmenu /usr/bin/proxy
